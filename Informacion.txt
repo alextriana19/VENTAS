@@ -1,0 +1,25 @@
+# SISTEMA DE INVENTARIO ALEX TRIANA (SIAT)
+SISTEMA de inventario desarrollado en:
+            PHP 
+            MySQL
+            MVC
+            AJAX
+            Amp
+            Bulma
+
+# INSTALACIÓN
+1. Copie o mueva la carpeta VENTAS a su servidor local o remoto
+2. Cree una base de datos en MYSQL con el nombre de su preferencia, selecciónela e importe la base de datos del sistema con phpmyadmin u otro gestor grafico de MYSQL que utilice, la base de datos se encuentra en la carpeta DB
+3. Abra el archivo server.php con su editor de código favorito y configure solamente los datos del servidor. El archivo se encuentra en la carpeta “config”
+4. Abra el archivo app.php con su editor de código favorito, a continuación configúrelo según su empresa y servidor. El archivo se encuentra en la carpeta “config”
+
+APP_NAME -> El nombre de su empresa u organización
+APP_URL -> La dirección URL de su servidor local (http://localhost/VENTAS/) o remoto (https://midominio/VENTAS/). 
+Importante no olvide colocar en la URL si es http o https
+
+# CUENTA POR DEFECTO
+Usuario: Administrador
+Clave: Administrador
+
+# VIDEO DE INSTALACION
+**********************
